@@ -1,0 +1,23 @@
+<index.html>
+<!DOCTYPE html>
+<html>
+<head>
+<title> Home of Felicya </title>
+<link rel="stylesheet" type="text/css"
+href="styles.css">
+</head>
+<body>
+ <div id="header">
+  <div class="container">
+    <a id="header-title"
+   <a href="index.html"> Home of Felicya</a>
+   <ul id="header-nav">
+     <li><a href="about.html">About</a>
+     </li>
+     <li><a href="made.html">Made by</a>
+     </li>
+     <li><a mailto="graesner.carlos@gmail.com">Contact</a>
+     </li>
+   </ul>
+  </div>
+ </div>
